@@ -29,5 +29,5 @@ server.listen(port);
 
 function ping() {
   this.res.writeHead(200);
-  this.res.end("Hey, I'm Cool Guy.");
+  this.res.end("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsTvmFf91osXHe2in-iz2qKRRWygPL2I6OZEOz9WNttuNHvY-");
 }
